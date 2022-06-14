@@ -8,6 +8,9 @@ using System.Collections.Generic;
 
 namespace Repository
 {
+    /// <summary>
+    /// StudentService class
+    /// </summary>
     // methods are  implemented 
     public class StudentService:IStudentService
     {
